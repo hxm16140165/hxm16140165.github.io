@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /bitbug_favion.ico
+Disallow: /assets/
+
+Sitemap: https://hxm16140165.github.io/sitemap.xml
